@@ -4,3 +4,7 @@
 
 # portt-info
 A repo to answer all your questions ⚡️
+
+```javascript
+console.log("Welcome to portt-info!");
+```
